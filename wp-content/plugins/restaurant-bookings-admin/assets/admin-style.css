@@ -1,0 +1,29 @@
+
+
+
+.tablenav-pages{
+    float:none !important;
+    text-align:center;
+    margin-top:20px;
+}
+
+.pagination-wrapper{
+    margin-top:20px;
+    text-align:center;
+}
+
+.pagination-wrapper .page-numbers{
+    display:inline-block;
+    padding:6px 12px;
+    margin:0 3px;
+    border:1px solid #ccd0d4;
+    border-radius:4px;
+    text-decoration:none;
+    background:#fff;
+}
+
+.pagination-wrapper .page-numbers.current{
+    background:#2271b1;
+    color:#fff;
+    border-color:#2271b1;
+}
